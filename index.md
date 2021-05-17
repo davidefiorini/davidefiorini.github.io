@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+### Welcome to my page, these are links you may have been looking for:
+
+</br>
+<img src="img/favicon.ico" width="40" height="40" /> [ONE PIECE charts](https://fiorins.github.io/onepiece/)
+</br></br>
+<img src="img/Ko-fi_Icon.png" width="40" height="40" /> [Support me on Ko-fi](https://ko-fi.com/davidefiorini/)
+</br></br>
+<img src="img/GitHub_Icon-Dark.png" width="40" height="40" /> [My GitHub page](https://github.com/fiorins/)
+</br></br>
 
 You can use the [editor on GitHub](https://github.com/itsgroove/davidefiorini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
