@@ -1,8 +1,8 @@
 ### Welcome to my page, these are links you may have been looking for:
 
-<img align="center" src="img/luffy.ico" width="40" height="40" /> [ONE PIECE charts](https://fiorins.github.io/onepiece/)
+<img align="center" src="img/luffy.png" width="40" height="40" /> [ONE PIECE charts](https://fiorins.github.io/onepiece/)
 
-<img align="center" src="img/deku.ico" width="40" height="40" /> [MY HERO ACADEMIA charts](https://fiorins.github.io/myheroacademia/)
+<img align="center" src="img/deku.png" width="40" height="40" /> [MY HERO ACADEMIA charts](https://fiorins.github.io/myheroacademia/)
 
 <img align="center" src="img/Ko-fi_Icon.png" width="40" height="40" /> [Support me on Ko-fi](https://ko-fi.com/davidefiorini/)
 
